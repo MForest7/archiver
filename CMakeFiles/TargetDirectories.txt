@@ -1,0 +1,4 @@
+/home/forest/gitreps/labs-trubnikov/hw-02_huffman/CMakeFiles/rebuild_cache.dir
+/home/forest/gitreps/labs-trubnikov/hw-02_huffman/CMakeFiles/edit_cache.dir
+/home/forest/gitreps/labs-trubnikov/hw-02_huffman/CMakeFiles/hw-02_huffman_test.dir
+/home/forest/gitreps/labs-trubnikov/hw-02_huffman/CMakeFiles/hw-02_huffman.dir

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/forest/gitreps/labs-trubnikov/hw-02_huffman/src/boolio.cpp
+boolio.hpp
+-
+
+include/boolio.hpp
+iostream
+-
+vector
+-
+exception
+-
+
